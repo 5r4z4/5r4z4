@@ -29,7 +29,8 @@ A fully automated **subdomain reconnaissance** tool combining the power of:
 
 ## 📫 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/5r4z4)  
-- 🐦 [Twitter/X](https://twitter.com/5r4z4)  
+- 🐦 [Twitter/X](https://twitter.com/5r4z4)
+- 🔎 [Facebook](https://www.facebook.com/shahinraza/)
 - 💬 DM-friendly, always open to collaboration
 
 ---
