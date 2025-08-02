@@ -18,6 +18,16 @@ A fully automated **subdomain reconnaissance** tool combining the power of:
 
 > One command. Multiple tools. One final result.
 
+### 🛠️ [CTF-XOR-Tool](https://github.com/5r4z4/Offline-XOR-Encoder-Decoder-Tool/)
+A simple web-based tool to XOR encode and decode text, using a custom key and Base64 encoding.
+Useful for CTFs, reverse engineering, or lightweight obfuscation.
+- 🔢 Custom XOR key (0–255)
+- 🔁 Encode (XOR + Base64)
+- 🔓 Decode (Base64 + XOR)
+- ⚡ Instant result display
+- 💡 Great for CTF token decoding (like: `e3o=` → `10`)
+
+
 ---
 
 ## 🚀 What I'm Working On
