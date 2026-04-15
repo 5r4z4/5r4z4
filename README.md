@@ -38,7 +38,7 @@ Useful for CTFs, reverse engineering, or lightweight obfuscation.
 ---
 
 ## 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/5r4z4)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/MdShahinRaza)  
 - 🐦 [Twitter/X](https://twitter.com/5r4z4)
 - 🔎 [Facebook](https://www.facebook.com/shahinraza/)
 - 💬 DM-friendly, always open to collaboration
